@@ -16,15 +16,15 @@ I engineer high-performance AI infrastructure and compliance-hardened systems fo
 
 The following repositories are sanitized, IP-free extractions of production architectures I have designed and deployed.
 
-<p>
+<p align="center">
   <a href="https://github.com/maxathy/agent-native-monorepo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxathy&repo=agent-native-monorepo&theme=default" alt="agent-native-monorepo" />
+    <img width="32%" src="https://opengraph.githubassets.com/1/maxathy/agent-native-monorepo" alt="agent-native-monorepo" />
   </a>
   <a href="https://github.com/maxathy/secure-data-vault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxathy&repo=secure-data-vault&theme=default" alt="secure-data-vault" />
+    <img width="32%" src="https://opengraph.githubassets.com/1/maxathy/secure-data-vault" alt="secure-data-vault" />
   </a>
   <a href="https://github.com/maxathy/realtime-voice-infra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxathy&repo=realtime-voice-infra&theme=default" alt="realtime-voice-infra" />
+    <img width="32%" src="https://opengraph.githubassets.com/1/maxathy/realtime-voice-infra" alt="realtime-voice-infra" />
   </a>
 </p>
 
@@ -90,6 +90,6 @@ The following repositories are sanitized, IP-free extractions of production arch
 
 Available for immediate Corp-to-Corp contract engagements to architect, rescue, or scale your infrastructure.
 
-**Contact** — [maxmillienjr@gmail.com](mailto:maxmillienjr@gmail.com) · [github.com/maxathy](https://github.com/maxathy)
+**Contact** — [maxmillienjr@gmail.com](mailto:maxmillienjr@gmail.com) · [linkedin.com/in/maxmill](https://linkedin.com/in/maxmill) · [github.com/maxathy](https://github.com/maxathy)
 
 <sub>PureTome and Quiet Horizons are private client engagements; the repositories above are sanitized architectural extractions.</sub>
