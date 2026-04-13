@@ -90,6 +90,6 @@ The following repositories are sanitized, IP-free extractions of production arch
 
 Available for immediate Corp-to-Corp contract engagements to architect, rescue, or scale your infrastructure.
 
-**Contact** — [maxmillienjr@gmail.com](mailto:maxmillienjr@gmail.com) · [linkedin.com/in/maxmill](https://linkedin.com/in/maxmill) · [github.com/maxathy](https://github.com/maxathy)
+**Contact** — [max.millien@puretome.com](mailto:max.millien@puretome.com) · [linkedin.com/in/maxmill](https://linkedin.com/in/maxmill) · [github.com/maxathy](https://github.com/maxathy)
 
 <sub>PureTome and Quiet Horizons are private client engagements; the repositories above are sanitized architectural extractions.</sub>
