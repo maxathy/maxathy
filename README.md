@@ -17,24 +17,24 @@ I engineer high-performance AI infrastructure and compliance-hardened systems fo
 The following repositories are sanitized, IP-free extractions of production architectures I have designed and deployed.
 
 <p align="center">
-  <a href="https://github.com/maxathy/agent-native-monorepo">
-    <img width="32%" src="https://opengraph.githubassets.com/1/maxathy/agent-native-monorepo" alt="agent-native-monorepo" />
+  <a href="https://github.com/maxmillienjr/agent-native-monorepo">
+    <img width="32%" src="https://opengraph.githubassets.com/1/maxmillienjr/agent-native-monorepo" alt="agent-native-monorepo" />
   </a>
-  <a href="https://github.com/maxathy/secure-data-vault">
-    <img width="32%" src="https://opengraph.githubassets.com/1/maxathy/secure-data-vault" alt="secure-data-vault" />
+  <a href="https://github.com/maxmillienjr/secure-data-vault">
+    <img width="32%" src="https://opengraph.githubassets.com/1/maxmillienjr/secure-data-vault" alt="secure-data-vault" />
   </a>
-  <a href="https://github.com/maxathy/realtime-voice-infra">
-    <img width="32%" src="https://opengraph.githubassets.com/1/maxathy/realtime-voice-infra" alt="realtime-voice-infra" />
+  <a href="https://github.com/maxmillienjr/realtime-voice-infra">
+    <img width="32%" src="https://opengraph.githubassets.com/1/maxmillienjr/realtime-voice-infra" alt="realtime-voice-infra" />
   </a>
 </p>
 
-**[agent-native-monorepo](https://github.com/maxathy/agent-native-monorepo)** — Production-grade monorepo chassis for stateful LangGraph agents. Three-tier memory integrating a NestJS microservice, PGVector semantic retrieval, and Neo4j knowledge graphs fused via Reciprocal Rank Fusion.
+**[agent-native-monorepo](https://github.com/maxmillienjr/agent-native-monorepo)** — Production-grade monorepo chassis for stateful LangGraph agents. Three-tier memory integrating a NestJS microservice, PGVector semantic retrieval, and Neo4j knowledge graphs fused via Reciprocal Rank Fusion.
 > *Solves the "our agent forgets everything" problem without a ground-up rewrite.*
 
-**[secure-data-vault](https://github.com/maxathy/secure-data-vault)** — Compliance-hardened NestJS architecture for regulated data. AES-256-GCM envelope encryption with per-record DEKs, tamper-evident hash-chained audit trails, and strict Zod validation pipes.
+**[secure-data-vault](https://github.com/maxmillienjr/secure-data-vault)** — Compliance-hardened NestJS architecture for regulated data. AES-256-GCM envelope encryption with per-record DEKs, tamper-evident hash-chained audit trails, and strict Zod validation pipes.
 > *Ships the compliance story your auditor wants before you hire a security engineer.*
 
-**[realtime-voice-infra](https://github.com/maxathy/realtime-voice-infra)** — Low-latency transport layer for voice AI. Backpressure-aware Socket.io streaming, AudioWorklet PCM capture, and collision-free IV construction for stable high-throughput sessions.
+**[realtime-voice-infra](https://github.com/maxmillienjr/realtime-voice-infra)** — Low-latency transport layer for voice AI. Backpressure-aware Socket.io streaming, AudioWorklet PCM capture, and collision-free IV construction for stable high-throughput sessions.
 > *Avoids the WebRTC tarpit without sacrificing session integrity.*
 
 ---
@@ -90,6 +90,6 @@ The following repositories are sanitized, IP-free extractions of production arch
 
 Available for immediate Corp-to-Corp contract engagements to architect, rescue, or scale your infrastructure.
 
-**Contact** — [maxmillienjr@gmail.com](mailto:maxmillienjr@gmail.com) · [linkedin.com/in/maxmill](https://linkedin.com/in/maxmill) · [github.com/maxathy](https://github.com/maxathy)
+**Contact** — [maxmillienjr@gmail.com](mailto:maxmillienjr@gmail.com) · [linkedin.com/in/maxmill](https://linkedin.com/in/maxmill) · [github.com/maxmillienjr](https://github.com/maxmillienjr)
 
 <sub>PureTome and Quiet Horizons are private client engagements; the repositories above are sanitized architectural extractions.</sub>
